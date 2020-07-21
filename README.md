@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**gtirloni/gtirloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer currently working with the great people of the [Inclusive Design Research Centre](https://idrc.ocadu.ca) 🇨🇦 and living in [Brazil](https://en.wikipedia.org/wiki/Brazil) 🇧🇷
 
-Here are some ideas to get you started:
+Some things I'm passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cloud Computing
+* DevOps (CI/CD)
+* Automation
+* Performance Analysis
+* Troubleshooting
+
+Besides GitHub, you can also find me in these other places:
+
+* [Freenode IRC network](https://freenode.net)
+* [ServerFault](https://serverfault.com/users/45673/giovanni-tirloni)
+* [LinkedIn](https://linkedin.com/in/gtirloni)
+
+If you'd like to colaborate on some project, feel free to send me an [email](http://scr.im/gtirloni).
