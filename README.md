@@ -16,4 +16,4 @@ Besides GitHub, you can also find me in these other places:
 * [ServerFault](https://serverfault.com/users/45673/giovanni-tirloni)
 * [LinkedIn](https://linkedin.com/in/gtirloni)
 
-If you'd like to colaborate on some project, feel free to send me an [email](http://scr.im/gtirloni).
+If you'd like to colaborate on some project, feel free to send me an [email](https://mailhide.io/e/hEfJq).
