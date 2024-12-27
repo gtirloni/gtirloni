@@ -1,16 +1,16 @@
-## Hi there 👋
+## hey
 
-<!--
-**gtirloni/gtirloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm interesting in:
+- operating systems
+- server infrastructure
+- observability
+- sre stuff
+- ...
 
-Here are some ideas to get you started:
+books i've been reading lately:
+- computer organization and design risc-v edition, 2nd ed
+- operating systems: three easy pieces
+- the linux programming interface
+- systems performance, 2nd ed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+in a parallel universe, i'm posting regularly here: https://tight-ship.net
