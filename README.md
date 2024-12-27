@@ -1,16 +1,16 @@
-## Hi there 👋
+## hey
 
-<!--
-**gtirloni/gtirloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```swift
+struct Profile {
+  let role = "site reliability engineer"
+  let domains = ["systems performance", "observability", "open source"]
+  let languages = ["Go", "Python", "C", "Swift"]
+  let enjoys = ["explaining faulty behavior", "git spelunking", "debugging in production"]
+  let hobbies = ["tennis", "cats", "annoying wife"]
+  let contact = [
+    "site": "https://gtirloni.com",
+    "social": "https://bsky.app/profile/gtirloni.bsky.social",
+    "email": "gtirloni (at) tirloni.net",
+  ]
+}
+```
