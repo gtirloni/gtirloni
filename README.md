@@ -1,6 +1,6 @@
 ## hey
 
-i'm interesting in:
+i'm interested in:
 - operating systems
 - server infrastructure
 - observability
