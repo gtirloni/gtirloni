@@ -12,5 +12,3 @@ books i've been reading lately:
 - operating systems: three easy pieces
 - the linux programming interface
 - systems performance, 2nd ed
-
-in a parallel universe, i'm posting regularly here: https://tight-ship.net
