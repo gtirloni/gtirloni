@@ -1,14 +1,16 @@
 ## hey
 
-i'm interested in:
-- operating systems
-- server infrastructure
-- observability
-- sre stuff
-- ...
-
-books i've been reading lately:
-- computer organization and design risc-v edition, 2nd ed
-- operating systems: three easy pieces
-- the linux programming interface
-- systems performance, 2nd ed
+```swift
+struct Profile {
+  let role = "site reliability engineer"
+  let domains = ["systems performance", "observability", "open source"]
+  let languages = ["Go", "Python", "C", "Swift"]
+  let enjoys = ["explaining faulty behavior", "git spelunking", "debugging in production"]
+  let hobbies = ["tennis", "cats", "annoying wife"]
+  let contact = [
+    "site": "https://undead.sh",
+    "social": "https://bsky.app/profile/undead.sh",
+    "email": "gtirloni (at) undead.sh",
+  ]
+}
+```
